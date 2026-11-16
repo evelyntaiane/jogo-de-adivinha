@@ -3,7 +3,7 @@
 Projeto desenvolvido na disciplina de Desenvolvimento de Aplicações Web I, do IFPB - Campus Campina Grande.
 
 ## Integrante
-- Preencha aqui seu nome.
+- Evelyn Taiane
 
 ## Como jogar
 Digite uma letra por vez e clique em **Tentar**. Também é possível pressionar Enter.
