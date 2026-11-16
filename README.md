@@ -27,4 +27,4 @@ O objetivo é descobrir a palavra antes que as seis tentativas acabem.
 - Layout responsivo.
 
 ## Link do jogo
-Adicione aqui o endereço do GitHub Pages depois de publicar.
+https://github.com/evelyntaiane/WEB
